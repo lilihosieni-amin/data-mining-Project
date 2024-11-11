@@ -30,4 +30,4 @@ The dataset includes both numerical and categorical features, allowing for a mix
 
 ### Clone the repository:
 ```bash
-git clone [https://github.com/YourUsername/StrokePredictionDataAnalysis.git](https://github.com/lilihosieni-amin/data-mining-Project.git)
+git clone https://github.com/lilihosieni-amin/data-mining-Project.git
