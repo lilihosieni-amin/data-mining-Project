@@ -25,9 +25,9 @@ The dataset includes both numerical and categorical features, allowing for a mix
 
 ## Usage
 
-- To explore **General Data Information**, such as data overview, feature descriptions, and handling of missing values, check the `information.ipynb` file.
-- For **Data Visualizations** and exploratory analysis, refer to the `visualizations.ipynb` file. This file includes frequency distributions, bar charts for categorical features, and a correlation heatmap.
+- To explore **General Data Information**, such as data overview, feature descriptions, and handling of missing values, check the [information.ipynb](https://github.com/lilihosieni-amin/data-mining-Project/blob/main/preprocessing/information.ipynb) file.
+- For **Data Visualizations** and exploratory analysis, refer to the [visualizations.ipynb](https://github.com/lilihosieni-amin/data-mining-Project/blob/main/preprocessing/visualizations.ipynb) file. This file includes frequency distributions, bar charts for categorical features, and a correlation heatmap.
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/StrokePredictionDataAnalysis.git
+git clone [https://github.com/YourUsername/StrokePredictionDataAnalysis.git](https://github.com/lilihosieni-amin/data-mining-Project.git)
