@@ -27,6 +27,8 @@ The dataset includes both numerical and categorical features, allowing for a mix
 
 - To explore **General Data Information**, such as data overview, feature descriptions, and handling of missing values, check the [information.ipynb](https://github.com/lilihosieni-amin/data-mining-Project/blob/main/preprocessing/information.ipynb) file.
 - For **Data Visualizations** and exploratory analysis, refer to the [visualizations.ipynb](https://github.com/lilihosieni-amin/data-mining-Project/blob/main/preprocessing/visualizations.ipynb) file. This file includes frequency distributions, bar charts for categorical features, and a correlation heatmap.
+- **Data Preprocessing**: To understand the preprocessing steps applied to the data, including data cleaning, handling outliers, encoding categorical variables, and scaling numerical features, see the [preprocessing.ipynb](preprocessing/preProcessing.ipynb) file. This notebook provides the foundational steps to prepare the data for modeling.
+- **Model Training**: For model training and evaluation, including decision tree classifiers with various criteria (Gini, Entropy, Log Loss) and Random Forest, review the [model_training.ipynb](DecisionTree_RandomForest/training_model.ipynb) file. This file also includes performance metrics such as accuracy, precision, recall, F1-score, and confusion matrices for each model.
 
 ### Clone the repository:
 ```bash
